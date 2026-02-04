@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import PrivacyPolicy from './PrivacyPolicy';
+import TermsAndConditions from './TermsAndConditions';
 
 function App() {
   return (
-    <PrivacyPolicy />
+    <TermsAndConditions />
   );
 }
 

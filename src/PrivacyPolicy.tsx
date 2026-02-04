@@ -113,12 +113,6 @@ function PrivacyPolicy() {
         <ul style={styles.list}>
           <li style={styles.small}>Online and offline functionality.</li>
           <li style={styles.small}>Audio playback of letters/words (no recording).</li>
-          <li style={styles.small}>
-            Screenshot and sharing features (user‑initiated only).
-          </li>
-          <li style={styles.small}>
-            Text‑to‑speech using the device’s built‑in TTS.
-          </li>
         </ul>
       </section>
 
@@ -181,13 +175,8 @@ function PrivacyPolicy() {
         <h2 style={styles.h2}>Screenshots, Sharing, and Audio</h2>
         <ul style={styles.list}>
           <li style={styles.small}>
-            Screenshots and sharing features are user‑initiated only; the app
-            does not automatically capture or share content.
-          </li>
-          <li style={styles.small}>
             Audio playback is available for letters and words to aid learning
-            (no audio recording). Text‑to‑speech uses the device’s built‑in
-            engine.
+            (no audio recording).
           </li>
         </ul>
       </section>
